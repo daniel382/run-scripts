@@ -1,0 +1,16 @@
+{
+  "name": "run-scripts",
+  "version": "1.0.0",
+  "description": "simple api to run scripts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Daniel Lucas <daniellucas382@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
